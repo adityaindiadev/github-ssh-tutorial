@@ -141,12 +141,12 @@ ssh -T git@github.com
 #### …or create a new repository on the command line
 
 ```bash
-echo "# testHu" >> README.md
+echo "# github-ssh-tutorial" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin git@github.com:adityaindiadev/testHu.git
+git remote add origin git@github.com:adityaindiadev/github-ssh-tutorial.git
 git push -u origin main
 ```
 
