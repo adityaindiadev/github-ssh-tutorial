@@ -136,7 +136,7 @@ ssh -T git@github.com
 
 
 
-## At the end, now you can ush code in GitHub
+## At the end, now you can push code in GitHub
 
 #### …or create a new repository on the command line
 
